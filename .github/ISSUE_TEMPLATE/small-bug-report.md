@@ -2,7 +2,7 @@
 name: Small bug report
 about: 'Report a small bug that isn''t super important to fix right away '
 title: ''
-labels: small-bug
+labels: bug-small
 assignees: ''
 
 ---
