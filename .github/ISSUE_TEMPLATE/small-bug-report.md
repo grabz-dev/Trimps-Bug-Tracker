@@ -24,6 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Environment (please complete the following information):**
+ - System version (Windows 10, 11? Linux?)
  - Game Version (are you playing on the web, or on Steam)?
  - If you're playing on the web, which browser are you using? [e.g. Chrome, Firefox, Safari]
 
