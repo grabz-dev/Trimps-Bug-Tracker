@@ -1,6 +1,6 @@
 ---
 name: Suggestion
-about: Request a new feature or change/improve an existing one
+about: Request a new feature or change/improve an existing one.
 title: ''
 labels: suggestion
 assignees: ''

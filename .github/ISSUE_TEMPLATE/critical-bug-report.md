@@ -1,6 +1,6 @@
 ---
 name: Critical bug report
-about: 'Report a serious problem that needs top priority '
+about: Report a serious problem that needs top priority.
 title: ''
 labels: bug-critical
 assignees: ''

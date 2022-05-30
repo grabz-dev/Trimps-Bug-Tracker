@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: 'Report a bug that actively detracts from gameplay '
+about: Report a bug that actively detracts from gameplay.
 title: ''
 labels: bug, suggestion
 assignees: ''
