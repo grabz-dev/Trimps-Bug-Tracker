@@ -1,5 +1,5 @@
 # Trimps Bug and Suggestion Tracker
-Bug and suggestion tracker for the idle incremental game Trimps.
+This repository is intended as a bug and suggestion tracker for the idle incremental game Trimps.
 
 Head over to the **Issues** tab to submit a bug or a suggestion.
 
