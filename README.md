@@ -23,7 +23,7 @@ The "Write" box may be pre-filled with some text. This text is intended to help 
 
 Finally, hit Submit new issue.
 
-Thank you very much for your bug reports and suggestions! You help making Trimps better :)
+Thank you very much for your bug reports and suggestions! You help make Trimps better :)
 
 # External Links
 The game's repository: https://github.com/Trimps/Trimps.github.io  
